@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture Player</string>
+    <string name="btn_pick">Выбрать видео</string>
+    <string name="btn_demo">Демо</string>
+    <string name="btn_switch">Камера</string>
+    <string name="gesture_none">Жест: рука не найдена</string>
+    <string name="camera_denied">Нужен доступ к камере для распознавания жестов</string>
+    <string name="legend">✋ Играть   ✊ Пауза   👍 Громче   👎 Тише   ☝️ +10 с   ✌️ −10 с</string>
+</resources>
