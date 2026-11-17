@@ -67,3 +67,8 @@ app/src/main/java/com/example/gestureplayer/
 ├── player/PlayerGestureController.kt — жест → команда плееру
 └── ui/OverlayView.kt                — скелет руки поверх превью
 ```
+
+## Презентация
+
+В папке [`presentation/`](presentation/) лежит презентация проекта: готовый PDF
+([`Gesture-Player.pdf`](presentation/Gesture-Player.pdf)) и исходники слайдов (HTML и CSS).

@@ -1,0 +1,19 @@
+{
+  "v": 5,
+  "createdOnFiles": { "v": 1, "at": "2026-11-17T04:31:00Z" },
+  "lists": "css",
+  "format": { "v": 1, "shared": ["project/deck.css"] },
+  "title": "Gesture Player",
+  "order": ["cover", "problem", "idea", "gestures", "algorithm", "stack", "market", "matrix", "pros-cons", "roadmap", "repo"],
+  "sections": {
+    "s1": { "description": "Зачем нужно приложение и в чём идея", "start": "cover" },
+    "s2": { "description": "Жесты и устройство приложения", "start": "gestures" },
+    "s3": { "description": "Сравнение с аналогами", "start": "market" },
+    "s4": { "description": "Итоги, планы и ссылка на код", "start": "pros-cons" }
+  },
+  "faces": {
+    "rubik": { "family": "Rubik", "href": "https://fonts.googleapis.com/css2?family=Rubik:wght@400..700&display=swap" },
+    "inter": { "family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" }
+  },
+  "designSystems": []
+}
